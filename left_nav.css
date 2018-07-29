@@ -1,0 +1,111 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+
+html {
+  height: 100%;
+  background-color: rgb(134, 208, 243);
+  text-align: center;
+
+}
+
+body {
+  height: 100%;
+  max-width: 1080px;
+
+}
+
+header {
+  padding: 5px;
+  display: block;
+  width: 790px;
+}
+
+nav {
+  
+  width:225px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+    color: ;
+}
+
+section {
+  width: 516px;
+  display: inline-block;
+}
+
+
+#links {
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 300px;
+  width: 350px;
+}
+
+.kid{
+  display: inline;
+
+
+}
+
+#title{
+  text-align: center;
+  padding-bottom: 30px;
+  margin-bottom: 0px;
+  font-size: 50px
+  
+
+  
+
+
+}
+
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:red;
+  font-size: 14px;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+#kidsplaying{
+  display: block;
+  margin:auto;
+  width: 600px;
+  border: 20px whitesmoke;
+
+}
+
+#summary{
+  margin: auto;
+  padding-top: 18px;
+  font-size: 25px;
+
+
+}
+
+
+.personal{
+  margin:auto;
+ 
+  padding-bottom: 
+
+}
+
+
+.kid{
+  display: inline;
+
+
+}

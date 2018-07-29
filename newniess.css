@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(134, 208, 243);}
+
+#links{color: white;
+font-size:30px;
+text-align:left;}
+
+#title{color: rgb(245, 243, 243);
+font-size: 50px;
+text-align:center;
+background-color: black}
+
+#kidsplaying{
+    margin:auto;
+    width:50%;
+    float:right;
+    border:8px solid white;}
+    
+
+    #summary{
+        margin-left:20px;
+        margin-top:60px;
+        text-align: center;
+        vertical-align:middle;
+        font-size:50px;}
+    
+    
+
+
+

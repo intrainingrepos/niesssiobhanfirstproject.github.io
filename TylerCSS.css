@@ -1,0 +1,42 @@
+html{background: rgb(0, 153, 255);
+}
+
+#title{
+    text-align: center;
+    font-size: 75px;
+    background-color: white;
+    font-family: "Courier New", Times, serif;
+}
+
+#introlist{
+    margin: auto;
+    width: 50%;
+    font-size: 20;
+    padding: 10px;
+    font-family: "courier new", times, serif;
+}
+
+#germpic{
+    margin: auto;
+    width: auto;
+    float: right;
+    border: 5px solid black; 
+}
+
+.article{
+    margin-left: 150px;
+    margin-top: 90px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'courier new', times, serif;    
+}
+
+#handwash{
+    margin-top: 90px;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+#side{
+    
+}

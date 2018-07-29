@@ -1,0 +1,49 @@
+html{
+    background-color: rgba(246, 254, 156, 0.714)
+}
+#myself{color: indigo;
+        font-size: 12px;
+        text-align: right;}
+#DOG{color: brown;
+    font-size: medium;
+    font: status-bar;
+    text-align: center;}
+#leaving{color: black;
+margin: 0px;}
+#both{text-align: right;}
+.myclass{
+    color: rgb(255, 0, 13);
+    font-size: 45px;
+    font-style: bold;
+    margin: 0.5px;
+    border-top: 0px;
+        }
+.twoclass{
+    color: blue;
+    font-size: 22px;
+}
+div{
+    height: 10px;
+    background-color: antiquewhite;
+}
+#catdog{
+    height: 120px;
+}
+#junk{float: right;
+    }
+#Carlos{height: 400px;}
+#tips{color: blue;
+font-variant-east-asian: ruby;}
+h1{border-block-start-width: thick;
+    font-display: block;
+    background-origin: padding-box;
+    background-blend-mode: darken;
+    text-decoration-color: sienna;
+    text-size-adjust: large;
+    text-align: center;
+    padding: 20px;
+    font-size: xxx-large;
+    background-position-x: center;
+    border-bottom-color: brown;
+    box-shadow: rgba(40, 3, 205, 0.714)
+}
